@@ -1,11 +1,11 @@
 # Desenvolvimento Web Unifor 2020.2
 
-###### Professor
+## Professor
 
 Nas palavras de Bruno Lopes [GitHub Page](https://github.com/profbrunolopes/):
 > Sabe o que eu acho? Acho é pouco!
 
-###### Git commands
+## Git commands
 
 Alguns comandos básicos do git [Git Commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html):
 ```
